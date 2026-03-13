@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967669458923",
+    "project_id": "interviewsmt-b9eb6",
+    "storage_bucket": "interviewsmt-b9eb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967669458923:android:b722373fd954f0e0addbae",
+        "android_client_info": {
+          "package_name": "com.example.interviewtasksmt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfsD9yhr2davnSlEk5mlnf9QrmOs_-wk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
